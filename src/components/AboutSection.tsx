@@ -32,7 +32,7 @@ export const AboutSection = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
         <div className="space-y-6">
           <p className="text-lg leading-relaxed">
-            សួស្តី! ខ្ញុំឈ្មោះសុភី ជាអ្នកអភិវឌ្ឍន៍គេហទំព័រដែលមានបទពិសោធន៍៥ឆ្នាំ។ ខ្ញុំចាប់ផ្តើមសរសេរកូដតាំងពីអាយុ ១៥ ឆ្នាំ ហើយចាប់តាំងពីពេលនោះមក ខ្ញុំមានចំណង់ចំណូលចិត្តក្នុងការបង្កើតបទពិសោធន៍ឌីជីថលដែលមានភាពទាក់ទាញនិងមានប្រយោជន៍។
+            សួស្តី! ខ្ញុំឈ្មោះ​ សីហា ជាអ្នកអភិវឌ្ឍន៍គេហទំព័រដែលមានបទពិសោធន៍៥ឆ្នាំ។ ខ្ញុំចាប់ផ្តើមសរសេរកូដអាយុ ១៨ ឆ្នាំ ហើយចាប់តាំងពីពេលនោះមក ខ្ញុំមានចំណង់ចំណូលចិត្តក្នុងការបង្កើតបទពិសោធន៍ឌីជីថលដែលមានភាពទាក់ទាញនិងមានប្រយោជន៍។
           </p>
           <p className="text-lg leading-relaxed">
             ខ្ញុំមានជំនាញខាងការអភិវឌ្ឍន៍ផ្នែកខាងមុខ (Frontend) ជាមួយនឹង React, TypeScript និង Tailwind CSS ព្រមទាំងផ្នែកខាងក្រោយ (Backend) ជាមួយ Node.js និង MongoDB។ ខ្ញុំចូលចិត្តធ្វើការលើគម្រោងដែលមានផលប៉ះពាល់វិជ្ជមានលើអ្នកប្រើប្រាស់។
@@ -47,7 +47,7 @@ export const AboutSection = () => {
             <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-primary transition-transform hover:scale-105 duration-300 shadow-lg">
               <img
                 src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80"
-                alt="សុភី​ ផលា"
+                alt="ណា​ន សីហា"
                 className="w-full h-full object-cover"
               />
             </div>
