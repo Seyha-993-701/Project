@@ -10,8 +10,8 @@ export const Footer = () => {
       <div className="container mx-auto">
         <div className="flex flex-col items-center text-center">
           <a href="#" className="text-2xl font-bold text-primary mb-6">
-            <span className="text-foreground">ស.</span>
-            <span>សុភា</span>
+            <span className="text-foreground">ណាន-</span>
+            <span>សីហា</span>
           </a>
           
           <div className="mb-8">
@@ -56,7 +56,7 @@ export const Footer = () => {
           </div>
           
           <div className="text-muted-foreground">
-            <p>© {currentYear} សុភី​ ផលា រក្សាសិទ្ធិគ្រប់យ៉ាង</p>
+            <p>© {currentYear} ណាន​ សីហា រក្សាសិទ្ធិគ្រប់យ៉ាង</p>
           </div>
         </div>
       </div>
